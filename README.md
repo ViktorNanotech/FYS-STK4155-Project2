@@ -4,7 +4,7 @@
 Viktor Bilstad
 
 ## Project description
-The main focus in this project is to implement a costum made python code for reggression and classification tasks with a Feed Forward Neural Network. It consists of two main parts, where the first part builds on project 1 fitting of the Runge function, while the second part explores the infamous MNIST classification problem. 
+The main focus in this project is to implement a costum made code for reggression and classification tasks using a Feed Forward Neural Network. It consists of two main parts, where the first part builds on project 1 fitting of the Runge function, while the second part explores the infamous MNIST classification problem. 
 
 ## Structure
 
