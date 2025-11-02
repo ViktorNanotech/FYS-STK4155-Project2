@@ -1,6 +1,6 @@
 # FYS-STK4155-Project2
 
-
+##Group members: 
 How to run the code:
 1. Set up a python virtual environment
 
